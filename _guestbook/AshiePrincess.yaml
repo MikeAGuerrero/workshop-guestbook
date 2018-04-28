@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 name: Ashie Princess
 image: https://cdn.shopify.com/s/files/1/0209/7756/products/crown-stencil_2_grande.gif?v=1484069310
@@ -6,3 +7,13 @@ message: Hiya!
 twitter: ashie_princess_
 github: ashrowe98
 ---
+=======
+---
+name: Ashie Princess
+image: https://cdn.shopify.com/s/files/1/0209/7756/products/crown-stencil_2_grande.gif?v=1484069310
+emoji: 🦄
+message: Hiya!
+twitter: ashie_princess_
+github: ashrowe98
+---
+>>>>>>> 4b56a172e7b570d70f61746d5b7eb4817782dddc
